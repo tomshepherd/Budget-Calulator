@@ -1,0 +1,14 @@
+/home/tom/Projects/dotnet/budget-app/budget-app/obj/Debug/net8.0/budget-app.GeneratedMSBuildEditorConfig.editorconfig
+/home/tom/Projects/dotnet/budget-app/budget-app/obj/Debug/net8.0/budget-app.AssemblyInfoInputs.cache
+/home/tom/Projects/dotnet/budget-app/budget-app/obj/Debug/net8.0/budget-app.AssemblyInfo.cs
+/home/tom/Projects/dotnet/budget-app/budget-app/obj/Debug/net8.0/budget-app.csproj.CoreCompileInputs.cache
+/home/tom/Projects/dotnet/budget-app/budget-app/bin/Debug/net8.0/budget-app
+/home/tom/Projects/dotnet/budget-app/budget-app/bin/Debug/net8.0/budget-app.deps.json
+/home/tom/Projects/dotnet/budget-app/budget-app/bin/Debug/net8.0/budget-app.runtimeconfig.json
+/home/tom/Projects/dotnet/budget-app/budget-app/bin/Debug/net8.0/budget-app.dll
+/home/tom/Projects/dotnet/budget-app/budget-app/bin/Debug/net8.0/budget-app.pdb
+/home/tom/Projects/dotnet/budget-app/budget-app/obj/Debug/net8.0/budget-app.dll
+/home/tom/Projects/dotnet/budget-app/budget-app/obj/Debug/net8.0/refint/budget-app.dll
+/home/tom/Projects/dotnet/budget-app/budget-app/obj/Debug/net8.0/budget-app.pdb
+/home/tom/Projects/dotnet/budget-app/budget-app/obj/Debug/net8.0/budget-app.genruntimeconfig.cache
+/home/tom/Projects/dotnet/budget-app/budget-app/obj/Debug/net8.0/ref/budget-app.dll

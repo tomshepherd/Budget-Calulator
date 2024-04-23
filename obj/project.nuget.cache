@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PWJyUBHSBan1ZEaJkscEtXd5DfVXjSVKNa15pOY3s36Jk1K6Dnw8UxNqt5XGEhc1NP4nSu81/WB2wTBpI/eFOQ==",
+  "success": true,
+  "projectFilePath": "/home/tom/Projects/dotnet/budget-app/budget-app/budget-app.csproj",
+  "expectedPackageFiles": [
+    "/home/tom/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.4/microsoft.aspnetcore.app.ref.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
