@@ -37,11 +37,11 @@ namespace Program{
             
          }
 
-         public void ShowBills(){
+         public string ShowBills(){
 
             foreach(Bill b in bills){
 
-                Console.WriteLine($" ID: {b.Id } Name: {b.Name}, Amount: £{b.Amount}");
+                return $" ID: {b.Id } Name: {b.Name}, Amount: £{b.Amount}";
             }
          }
 
@@ -62,6 +62,8 @@ namespace Program{
                }
             }
          }
+
+
 
 
     

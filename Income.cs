@@ -17,7 +17,7 @@
 
         double incomeAfterTax = 0.0;
 
-       incomeAfterTax = _wage - TaxCalculation();
+        incomeAfterTax = Wage - TaxCalculation();
 
         return incomeAfterTax;
         
@@ -28,26 +28,26 @@
         double tax = 0.0;
 
 
-        if(_wage >= 12570.0|| _wage <= 50270.0){
+        if(Wage >= 12570.0|| Wage <= 50270.0){
 
-            tax = 0.2 * _wage;
+            tax = 0.2 * Wage;
             return tax;
 
         }
 
-        else if( _wage >= 50271.0 || _wage <= 125140.0){
-            tax = 0.4 * _wage;
+        if( Wage >= 50271.0 || Wage <= 125140.0){
+            tax = 0.4 * Wage;
             return tax;
         }
 
-        else if(_wage > 124140.0 ){
+         if(Wage > 124140.0 ){
 
-            tax = 0.45 * _wage;
+            tax = 0.45 * Wage;
             return tax;
         }
-        else{
+    
             return tax;
-        }
+        
 
     
 

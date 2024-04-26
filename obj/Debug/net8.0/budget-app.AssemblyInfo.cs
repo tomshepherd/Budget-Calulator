@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("budget-app")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4aeabab43b1c124ef80a0f00c45e359f6e87f338")]
 [assembly: System.Reflection.AssemblyProductAttribute("budget-app")]
 [assembly: System.Reflection.AssemblyTitleAttribute("budget-app")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
