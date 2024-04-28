@@ -37,20 +37,24 @@ namespace Program{
             
          }
 
-         public string ShowBills(){
+         public void ShowBills(){
 
             foreach(Bill b in bills){
 
-                return $" ID: {b.Id } Name: {b.Name}, Amount: £{b.Amount}";
+                Console.WriteLine( $" ID: {b.Id } Name: {b.Name}, Amount: £{b.Amount}");
             }
          }
 
-         public void UpdateBill(int id, string name, double amount){
+         public void UpdateBill(int id, string  name,double amount){
 
             foreach(Bill b in bills){
-               if(id == b.Id){
+               if(id == b.Id && name != null){
 
+                  Name = name;
 
+               }
+               else if(id == b.Id && amount != null){
+                  Amount = amount;
                }
             }
          }
